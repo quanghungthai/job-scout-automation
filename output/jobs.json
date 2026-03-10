@@ -1,10 +1,10 @@
 {
-  "generated_at_utc": "2026-03-09T12:41:38.106537+00:00",
+  "generated_at_utc": "2026-03-10T01:15:59.474660+00:00",
   "count": 1,
   "items": [
     {
       "source": "Indeed RSS – Bendigo ICT",
-      "title": "[ERROR] not well-formed (invalid token): line 1, column 3027",
+      "title": "[ERROR] not well-formed (invalid token): line 1, column 6636",
       "company": null,
       "location": null,
       "link": "https://au.indeed.com/rss?q=information+technology&l=Bendigo+VIC&radius=100&sort=date"
